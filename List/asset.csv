@@ -10,7 +10,7 @@ gas-hmi.gas.beg.18.berylia.org,bt_beg_gas,10.18.24.111,242a07:1182:18:24::111,wi
 gas-maintenance-terminal.gas.beg.18.berylia.org,bt_beg_gas,10.18.24.150,242a07:1182:18:24::150,windows_11_21h2,gas-maintenance-terminal,bt_beg_gas,Maintenance terminal of GAS Pipeline to conduct regular checks,gas-maintenance-terminal.gas.beg.18.berylia.org
 mail.beg.18.berylia.org,bt_beg_dmz,100.96.18.5,252a07:1182:18::5,windows_server_2022,mail,bt_beg_dmz,Exchange server in BEG domain.,mail.beg.18.berylia.org
 mail.int.baf.18.berylia.org,bt_baf_int,10.18.8.5,242a07:1182:18:1001::5,windows_server_2022,mail,bt_baf_int,Mail Server for BAF domain,mail.int.baf.18.berylia.org
-rms-rdp.bob.18.berylia.org,bt_bob_dmz,100.98.18.23,272a07:1182:18:2000::23,windows_10_21h1,rms-rdp,bt_bob_dmz,Bank access windows JumpHost/terminal server,rms-rdp.bob.18.berylia.org
+rms-rdp,bt_bob_dmz,100.98.18.23,272a07:1182:18:2000::23,windows_10_21h1,rms-rdp,bt_bob_dmz,Bank access windows JumpHost/terminal server,rms-rdp.bob.18.berylia.org
 sp.int.baf.18.berylia.org,bt_baf_int,10.18.8.6,242a07:1182:18:1001::6,windows_server_2022,sp,bt_baf_int,SharePoint for BAF domain,sp.int.baf.18.berylia.org
 sql.int.baf.18.berylia.org,bt_baf_int,10.18.8.7,2a07:1182:18:1001::7,windows_server_2022,sql,bt_baf_int,SQL server for BAF domain,sql.int.baf.18.berylia.org
 wap.baf.18.berylia.org,bt_baf_dmz,100.97.18.4,262a07:1182:18:1000::4,windows_server_2022,wap,bt_baf_dmz,Berylian Armed Forces Web Application Proxy,wap.baf.18.berylia.org
